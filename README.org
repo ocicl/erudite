@@ -2,9 +2,8 @@
 
 :green_book: Literate Programming System for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mmontone/erudite.git   |
-| commit  | 6f035ce  |
-| systems | erudite |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/mmontone/erudite.git |
+| commit  | 97e5d1c                                     |
+| systems | erudite                                     |
+|---------+---------------------------------------------|
